@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/DeslocamentoBidirecional/Test_isim_beh.exe" -prj "/home/ise/DeslocamentoBidirecional/Test_beh.prj" "work.Test" 
